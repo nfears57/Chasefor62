@@ -1,1 +1,934 @@
-//
+{
+    "homeruns": [
+        {
+            "number": "1",
+            "opponent": "Toronto Blue Jays",
+            "pitcher": "Jose Berrios",
+            "inning": "Bottom 5",
+            "runners": "Nobody On",
+            "distance": "413 ft",
+            "exitVelo": "108.4 mph",
+            "launchAngle": "27",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "3-1",
+            "scoreAfter": "3-2",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-1-on-a-fly-ball-to-left-center-field-1hwen8-7sakef?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "2",
+            "opponent": "Cleveland Guardians",
+            "pitcher": "Eli Morgan",
+            "inning": "Bottom 3",
+            "runners": "man on 1st",
+            "distance": "397 ft",
+            "exitVelo": "112.0 mph",
+            "launchAngle": "34",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "0-0",
+            "scoreAfter": "2-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-2-on-a-fly-ball-to-center-field-dj-lemahieu-scores?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "3",
+            "opponent": "Cleveland Guardians",
+            "pitcher": "Tanner Tully",
+            "inning": "Bottom 5",
+            "runners": "Nobody On",
+            "distance": "364 ft",
+            "exitVelo": "112.0 mph",
+            "launchAngle": "19",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "3-1",
+            "scoreAfter": "4-1",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-3-on-a-line-drive-to-right-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "4",
+            "opponent": "Baltimore Orioles",
+            "pitcher": "Alex Wells",
+            "inning": "Bottom 8",
+            "runners": "Nobody On",
+            "distance": "392 ft",
+            "exitVelo": "98.5 mph",
+            "launchAngle": "34",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "10-8",
+            "scoreAfter": "11-8",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-4-on-a-fly-ball-to-left-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "5",
+            "opponent": "Baltimore Orioles",
+            "pitcher": "Paul Fry",
+            "inning": "Bottom 8",
+            "runners": "2nd and 3rd",
+            "distance": "415 ft",
+            "exitVelo": "113.6 mph",
+            "launchAngle": "23",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "7-2",
+            "scoreAfter": "10-2",
+            "video": "https://www.mlb.com/yankees/video/paul-fry-in-play-run-s-to-aaron-judge?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "6",
+            "opponent": "Kansas City Royals",
+            "pitcher": "Dylan Coleman",
+            "inning": "Top 7",
+            "runners": "1st and 2nd",
+            "distance": "389 ft",
+            "exitVelo": "105.4 mph",
+            "launchAngle": "34",
+            "ballpark": "Kaufman Stadium",
+            "scoreBefore": "4-2",
+            "scoreAfter": "7-2",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-6-on-a-fly-ball-to-right-center-field-kyle-higashioka?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "7",
+            "opponent": "Kansas City Royals",
+            "pitcher": "Daniel Lynch",
+            "inning": "Top 1",
+            "runners": "Nobody On",
+            "distance": "453 ft",
+            "exitVelo": "113.5 mph",
+            "launchAngle": "27",
+            "ballpark": "Kaufman Stadium",
+            "scoreBefore": "0-0",
+            "scoreAfter": "1-0",
+            "video": "https://www.mlb.com/yankees/video/daniel-lynch-in-play-run-s-to-aaron-judge?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "8",
+            "opponent": "Kansas City Royals",
+            "pitcher": "Josh Staumont",
+            "inning": "Top 9",
+            "runners": "Nobody On",
+            "distance": "394 ft",
+            "exitVelo": "106.8 mph",
+            "launchAngle": "35",
+            "ballpark": "Kaufman Stadium",
+            "scoreBefore": "5-4",
+            "scoreAfter": "6-4",
+            "video": "https://www.mlb.com/yankees/video/josh-staumont-in-play-run-s-to-aaron-judge-gsnyio?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "9",
+            "opponent": "Toronto Blue Jays",
+            "pitcher": "Alek Manoah",
+            "inning": "Top 6",
+            "runners": "Nobody On",
+            "distance": "427 ft",
+            "exitVelo": "114.9 mph",
+            "launchAngle": "25",
+            "ballpark": "Rogers Centre",
+            "scoreBefore": "1-0",
+            "scoreAfter": "1-1",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-9-on-a-fly-ball-to-left-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "10",
+            "opponent": "Toronto Blue Jays",
+            "pitcher": "Jordan Romano",
+            "inning": "Bottom 9",
+            "runners": "1st and 2nd",
+            "distance": "414 ft",
+            "exitVelo": "112.5 mph",
+            "launchAngle": "31",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "5-3",
+            "scoreAfter": "6-5",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-10-on-a-fly-ball-to-left-center-field-jose-trevino-sco?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "11",
+            "opponent": "Chicago White Sox",
+            "pitcher": "Ryan Burr",
+            "inning": "Top 7",
+            "runners": "Nobody On",
+            "distance": "456 ft",
+            "exitVelo": "114.0 mph",
+            "launchAngle": "25",
+            "ballpark": "Guaranteed Rate Field",
+            "scoreBefore": "6-4",
+            "scoreAfter": "7-4",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-11-on-a-fly-ball-to-left-center-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "12",
+            "opponent": "Chicago White Sox",
+            "pitcher": "Vince Velazquez",
+            "inning": "Top 4",
+            "runners": "Nobody On",
+            "distance": "355 ft",
+            "exitVelo": "103.8 mph",
+            "launchAngle": "31",
+            "ballpark": "Guaranteed Rate Field",
+            "scoreBefore": "5-0",
+            "scoreAfter": "6-0",
+            "video": "https://www.mlb.com/yankees/video/nyy-cws-2c7b43?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "13",
+            "opponent": "Baltimore Orioles",
+            "pitcher": "Spenser Watkins",
+            "inning": "Top 3",
+            "runners": "Nobody On",
+            "distance": "410 ft",
+            "exitVelo": "105.5 mph",
+            "launchAngle": "29",
+            "ballpark": "Oriole Park at Camden Yards",
+            "scoreBefore": "1-1",
+            "scoreAfter": "2-1",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-13-on-a-fly-ball-to-center-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "14",
+            "opponent": "Baltimore Orioles",
+            "pitcher": "Joey Krehbiel",
+            "inning": "Top 5",
+            "runners": "Nobody On",
+            "distance": "422 ft",
+            "exitVelo": "112.2 mph",
+            "launchAngle": "25",
+            "ballpark": "Oriole Park at Camden Yards",
+            "scoreBefore": "3-2",
+            "scoreAfter": "3-3",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-14-on-a-fly-ball-to-center-field-uznmqq?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "15",
+            "opponent": "Chicago White Sox",
+            "pitcher": "Kendall Graveman",
+            "inning": "Bottom 8",
+            "runners": "Nobody On",
+            "distance": "431 ft",
+            "exitVelo": "111.1 mph",
+            "launchAngle": "28",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "1-0",
+            "scoreAfter": "1-1",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-15-on-a-fly-ball-to-left-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "16",
+            "opponent": "Baltimore Orioles",
+            "pitcher": "Jordan Lyles",
+            "inning": "Bottom 1",
+            "runners": "Nobody On",
+            "distance": "422 ft",
+            "exitVelo": "112.0 mph",
+            "launchAngle": "22",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "0-0",
+            "scoreAfter": "1-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-16-on-a-fly-ball-to-center-field-4xodsl?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "17",
+            "opponent": "Baltimore Orioles",
+            "pitcher": "Jordan Lyles",
+            "inning": "Bottom 5",
+            "runners": "man on 1st",
+            "distance": "405 ft",
+            "exitVelo": "103.1 mph",
+            "launchAngle": "32",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "4-2",
+            "scoreAfter": "4-4",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-17-on-a-fly-ball-to-left-field-anthony-rizzo-scores?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "18",
+            "opponent": "Tampa Bay Rays",
+            "pitcher": "Colin Poche",
+            "inning": "Top 8",
+            "runners": "Nobody On",
+            "distance": "420 ft",
+            "exitVelo": "107.4 mph",
+            "launchAngle": "31",
+            "ballpark": "Tropicana Field",
+            "scoreBefore": "4-1",
+            "scoreAfter": "4-2",
+            "video": "https://www.mlb.com/yankees/video/colin-poche-in-play-run-s-to-aaron-judge?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "19",
+            "opponent": "Los Angeles Angels",
+            "pitcher": "Shohei Ohtani",
+            "inning": "Bottom 3",
+            "runners": "Nobody On",
+            "distance": "405 ft",
+            "exitVelo": "109.9 mph",
+            "launchAngle": "21",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "2-0",
+            "scoreAfter": "3-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-19-on-a-line-drive-to-left-center-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=2"
+        
+        },
+        {
+            "number": "20",
+            "opponent": "Detroit Tigers",
+            "pitcher": "Elvin Rodriguez",
+            "inning": "Bottom 3",
+            "runners": "Nobody On",
+            "distance": "378 ft",
+            "exitVelo": "104.2 mph",
+            "launchAngle": "34",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "1-0",
+            "scoreAfter": "2-0",
+            "video": "https://www.mlb.com/yankees/video/elvin-rodriguez-in-play-run-s-to-aaron-judge?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "21",
+            "opponent": "Detroit Tigers",
+            "pitcher": "Beau Brieske",
+            "inning": "Bottom 1",
+            "runners": "Nobody On",
+            "distance": "378 ft",
+            "exitVelo": "106.4 mph",
+            "launchAngle": "31",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "0-0",
+            "scoreAfter": "1-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-21-on-a-fly-ball-to-right-center-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "22",
+            "opponent": "Minnesota Twins",
+            "pitcher": "Cole Sands",
+            "inning": "Top 1",
+            "runners": "man on 1st",
+            "distance": "431 ft",
+            "exitVelo": "107.7 mph",
+            "launchAngle": "31",
+            "ballpark": "Target Field",
+            "scoreBefore": "0-0",
+            "scoreAfter": "2-0",
+            "video": "https://www.mlb.com/yankees/video/cole-sands-in-play-run-s-to-aaron-judge?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "23",
+            "opponent": "Chicago Cubs",
+            "pitcher": "Matt Swarmer",
+            "inning": "Bottom 1",
+            "runners": "Nobody On",
+            "distance": "383 ft",
+            "exitVelo": "107.3 mph",
+            "launchAngle": "41",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "1-0",
+            "scoreAfter": "0-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-23-on-a-fly-ball-to-left-field-bumi49?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "24",
+            "opponent": "Chicago Cubs",
+            "pitcher": "Matt Swarmer",
+            "inning": "Bottom 5",
+            "runners": "Nobody On",
+            "distance": "431 ft",
+            "exitVelo": "115.5 mph",
+            "launchAngle": "18",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "4-0",
+            "scoreAfter": "5-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-s-second-homer-of-game?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "25",
+            "opponent": "Tampa Bay Rays",
+            "pitcher": "Shane McClanahan",
+            "inning": "Bottom 1",
+            "runners": "Nobody On",
+            "distance": "364 ft",
+            "exitVelo": "104.1 mph",
+            "launchAngle": "24",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "0-0",
+            "scoreAfter": "1-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-25-on-a-fly-ball-to-right-center-field-wsigdk?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "26",
+            "opponent": "Tampa Bay Rays",
+            "pitcher": "Shane Baz",
+            "inning": "Top 4",
+            "runners": "Nobody On",
+            "distance": "396 ft",
+            "exitVelo": "99.9 mph",
+            "launchAngle": "34",
+            "ballpark": "Tropicana Field",
+            "scoreBefore": "3-0",
+            "scoreAfter": "3-1",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-26-on-a-fly-ball-to-left-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "27",
+            "opponent": "Tampa Bay Rays",
+            "pitcher": "Colin Poche",
+            "inning": "Top 7",
+            "runners": "Nobody On",
+            "distance": "406 ft",
+            "exitVelo": "109.0 mph",
+            "launchAngle": "41",
+            "ballpark": "Tropicana Field",
+            "scoreBefore": "4-2",
+            "scoreAfter": "4-3",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-27-on-a-fly-ball-to-left-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "28",
+            "opponent": "Houston Astros",
+            "pitcher": "Seth Martinez",
+            "inning": "Bottom 10",
+            "runners": "1st and 3rd",
+            "distance": "417 ft",
+            "exitVelo": "112.0 mph",
+            "launchAngle": "20",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "3-3",
+            "scoreAfter": "6-3",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-28-on-a-line-drive-to-left-center-field-aaron-hicks-sc?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "29",
+            "opponent": "Oakland A's",
+            "pitcher": "Cole Irvin",
+            "inning": "Bottom 1",
+            "runners": "man on 1st",
+            "distance": "429 ft",
+            "exitVelo": "111.3 mph",
+            "launchAngle": "26",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "3-0",
+            "scoreAfter": "3-2",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-29-on-a-fly-ball-to-left-field-dj-lemahieu-scores?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "30",
+            "opponent": "Pittsburgh Pirates",
+            "pitcher": "Manny Banuelos",
+            "inning": "Top 8",
+            "runners": "bases loaded",
+            "distance": "419 ft",
+            "exitVelo": "114.7 mph",
+            "launchAngle": "24",
+            "ballpark": "PNC Park",
+            "scoreBefore": "5-0",
+            "scoreAfter": "9-0",
+            "video": "https://www.mlb.com/yankees/video/manny-banuelos-in-play-run-s-to-aaron-judge?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "31",
+            "opponent": "Cincinnati Reds",
+            "pitcher": "Jeff Hoffman",
+            "inning": "Bottom 8",
+            "runners": "Nobody On",
+            "distance": "435 ft",
+            "exitVelo": "112.0 mph",
+            "launchAngle": "23",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "4-1",
+            "scoreAfter": "4-2",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-31-on-a-fly-ball-to-center-field-fzngls?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "32",
+            "opponent": "Boston Red Sox",
+            "pitcher": "Nick Pivetta",
+            "inning": "Bottom 5",
+            "runners": "Nobody On",
+            "distance": "401 ft",
+            "exitVelo": "102.6 mph",
+            "launchAngle": "26",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "4-1",
+            "scoreAfter": "5-1",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-s-solo-home-run-x0684?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "33",
+            "opponent": "Boston Red Sox",
+            "pitcher": "Kaleb Ort",
+            "inning": "Bottom 6",
+            "runners": "man on 1st",
+            "distance": "444 ft",
+            "exitVelo": "108.5",
+            "launchAngle": "26",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "8-1",
+            "scoreAfter": "10-1",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-s-two-run-homer?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "34",
+            "opponent": "Houston Astros",
+            "pitcher": "Brandon Bielak",
+            "inning": "Top 9",
+            "runners": "2nd and 3rd",
+            "distance": "410 ft",
+            "exitVelo": "111.0 mph",
+            "launchAngle": "33",
+            "ballpark": "Minute Maid Park",
+            "scoreBefore": "7-2",
+            "scoreAfter": "7-5",
+            "video": "https://www.mlb.com/yankees/video/brandon-bielak-in-play-run-s-to-aaron-judge?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "35",
+            "opponent": "Baltimore Orioles",
+            "pitcher": "Tyler Wells",
+            "inning": "Top 3",
+            "runners": "1st and 2nd",
+            "distance": "436 ft",
+            "exitVelo": "108.6 mph",
+            "launchAngle": "26",
+            "ballpark": "Oriole Park at Camden Yards",
+            "scoreBefore": "0-0",
+            "scoreAfter": "3-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-35-on-a-fly-ball-to-center-field-joey-gallo-scores-dj?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "36",
+            "opponent": "Baltimore Orioles",
+            "pitcher": "Tyler Wells",
+            "inning": "Top 5",
+            "runners": "Nobody On",
+            "distance": "465 gy",
+            "exitVelo": "113.5 mph",
+            "launchAngle": "25",
+            "ballpark": "Oriole Park at Camden Yards",
+            "scoreBefore": "4-2",
+            "scoreAfter": "5-2",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-36-on-a-fly-ball-to-center-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "37",
+            "opponent": "Baltimore Orioles",
+            "pitcher": "Dean Kremer",
+            "inning": "Top 3",
+            "runners": "man on 2nd",
+            "distance": "456 ft",
+            "exitVelo": "111.1 mph",
+            "launchAngle": "31",
+            "ballpark": "Oriole Park at Camden Yards",
+            "scoreBefore": "1-0",
+            "scoreAfter": "3-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-37-on-a-fly-ball-to-left-field-dj-lemahieu-scores?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "38",
+            "opponent": "New York Mets",
+            "pitcher": "Taijuan Walker",
+            "inning": "Top 1",
+            "runners": "Nobody On",
+            "distance": "423 ft",
+            "exitVelo": "112.1 mph",
+            "launchAngle": "29",
+            "ballpark": "Citi Field",
+            "scoreBefore": "0-0",
+            "scoreAfter": "1-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-38-on-a-fly-ball-to-right-center-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "39",
+            "opponent": "Kansas City Royals",
+            "pitcher": "Scott Barlow",
+            "inning": "Bottom 9",
+            "runners": "Nobody On",
+            "distance": "431 ft",
+            "exitVelo": "109.6 mph",
+            "launchAngle": "35",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "0=0",
+            "scoreAfter": "1-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-39-on-a-fly-ball-to-center-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "40",
+            "opponent": "Kansas City Royals",
+            "pitcher": "Kris Bubic",
+            "inning": "Bottom 3",
+            "runners": "man on 1st",
+            "distance": "449 ft",
+            "exitVelo": "110.2 mph",
+            "launchAngle": "29",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "1-0",
+            "scoreAfter": "3-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-40-on-a-fly-ball-to-left-center-field-dj-lemahieu-scor?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "41",
+            "opponent": "Kansas City Royals",
+            "pitcher": "Jackson Kowar",
+            "inning": "Bottom 8",
+            "runners": "bases loaded",
+            "distance": "370 ft",
+            "exitVelo": "105.1 mph",
+            "launchAngle": "29",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "7-5",
+            "scoreAfter": "11-5",
+            "video": "https://www.mlb.com/yankees/video/jackson-kowar-in-play-run-s-to-aaron-judge?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=1"
+        
+        },
+        {
+            "number": "42",
+            "opponent": "Kansas City Royals",
+            "pitcher": "Jonathan Heasley",
+            "inning": "Bottom 2",
+            "runners": "man on 1st",
+            "distance": "364 ft",
+            "exitVelo": "105.2 mph",
+            "launchAngle": "22",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "2-0",
+            "scoreAfter": "4-0",
+            "video": "https://www.mlb.com/yankees/video/jonathan-heasley-in-play-run-s-to-aaron-judge?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "43",
+            "opponent": "Seattle Mariners",
+            "pitcher": "Marco Gonzales",
+            "inning": "Bottom 2",
+            "runners": "man on 1st",
+            "distance": "383 ft",
+            "exitVelo": "110.8 mph",
+            "launchAngle": "22",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "3-1",
+            "scoreAfter": "5-1",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-43-on-a-fly-ball-to-center-field-dj-lemahieu-scores?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "44",
+            "opponent": "Seattle Mariners",
+            "pitcher": "Ryan Borucki",
+            "inning": "Top 9",
+            "runners": "Nobody On",
+            "distance": "422 ft",
+            "exitVelo": "107.7 mph",
+            "launchAngle": "23",
+            "ballpark": "T-Mobile Park",
+            "scoreBefore": "7-3",
+            "scoreAfter": "8-3",
+            "video": "https://www.mlb.com/yankees/video/ryan-borucki-in-play-run-s-to-aaron-judge?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "45",
+            "opponent": "Seattle Mariners",
+            "pitcher": "Penn Murfee",
+            "inning": "Top 7",
+            "runners": "Nobody On",
+            "distance": "412 ft",
+            "exitVelo": "105.2 mph",
+            "launchAngle": "32",
+            "ballpark": "T-Mobile Park",
+            "scoreBefore": "2-1",
+            "scoreAfter": "3-1",
+            "video": "https://www.mlb.com/yankees/video/penn-murfee-in-play-run-s-to-aaron-judge?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "46",
+            "opponent": "Boston Red Sox",
+            "pitcher": "Nathan Eovaldi",
+            "inning": "Top 3",
+            "runners": "Nobody On",
+            "distance": "429 ft",
+            "exitVelo": "113.8 mph",
+            "launchAngle": "31",
+            "ballpark": "Fenway Park",
+            "scoreBefore": "1-0",
+            "scoreAfter": "2-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-46-on-a-fly-ball-to-left-center-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "47",
+            "opponent": "New York Mets",
+            "pitcher": "Max Scherzer",
+            "inning": "Bottom 3",
+            "runners": "Nobody On",
+            "distance": "383 ft",
+            "exitVelo": "109.6 mph",
+            "launchAngle": "26",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "1-0",
+            "scoreAfter": "2-0",
+            "video":"https://www.mlb.com/yankees/video/aaron-judge-homers-47-on-a-fly-ball-to-right-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "48",
+            "opponent": "New York Mets",
+            "pitcher": "Taijuan Walker",
+            "inning": "Bottom 4",
+            "runners": "Nobody On",
+            "distance": "453 ft",
+            "exitVelo": "115.9 mph",
+            "launchAngle": "26",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "0-0",
+            "scoreAfter": "1-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-48-on-a-fly-ball-to-left-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "49",
+            "opponent": "Oakland A's",
+            "pitcher": "J.P. Sears",
+            "inning": "Top 5",
+            "runners": "1st and 2nd",
+            "distance": "426 ft",
+            "exitVelo": "109.0 mph",
+            "launchAngle": "31",
+            "ballpark": "RingCentral Coliseum",
+            "scoreBefore": "0-0",
+            "scoreAfter": "3-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-49-on-a-fly-ball-to-center-field-oswaldo-cabrera-score?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "50",
+            "opponent": "Los Angeles Angels",
+            "pitcher": "Ryan Tepera",
+            "inning": "Top 8",
+            "runners": "Nobody On",
+            "distance": "434 ft",
+            "exitVelo": "111.1 mph",
+            "launchAngle": "34",
+            "ballpark": "Angel Stadium",
+            "scoreBefore": "4-2",
+            "scoreAfter": "3-2",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-50-on-a-fly-ball-to-center-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "51",
+            "opponent": "Los Angeles Angels",
+            "pitcher": "Mike Mayers",
+            "inning": "Top 4",
+            "runners": "1st and 2nd",
+            "distance": "377 ft",
+            "exitVelo": "107.5 mph",
+            "launchAngle": "36",
+            "ballpark": "Angel Stadium",
+            "scoreBefore": "4-2",
+            "scoreAfter": "7-2",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-51-on-a-fly-ball-to-right-center-field-dj-lemahieu-sco?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "52",
+            "opponent": "Tampa Bay Rays",
+            "pitcher": "Jason Adam",
+            "inning": "Top 9",
+            "runners": "Nobody On",
+            "distance": "391 ft",
+            "exitVelo": "103.5 mph",
+            "launchAngle": "26",
+            "ballpark": "Tropicana Field",
+            "scoreBefore": "2-0",
+            "scoreAfter": "2-1",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-52-on-a-fly-ball-to-right-center-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "53",
+            "opponent": "Tampa Bay Rays",
+            "pitcher": "Shawn Armstrong",
+            "inning": "Top 1",
+            "runners": "Nobody On",
+            "distance": "449 ft",
+            "exitVelo": "115.3 mph",
+            "launchAngle": "30",
+            "ballpark": "Tropicana Field",
+            "scoreBefore": "0-0",
+            "scoreAfter": "1-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-53-on-a-fly-ball-to-left-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "54",
+            "opponent": "Minnesota Twins",
+            "pitcher": "Trevor Megill",
+            "inning": "Bottom 6",
+            "runners": "man on 1st",
+            "distance": "404 ft",
+            "exitVelo": "109.6 mph",
+            "launchAngle": "34",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "2-2",
+            "scoreAfter": "4-2",
+            "video": "https://www.mlb.com/yankees/video/trevor-megill-in-play-run-s-to-aaron-judge?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "55",
+            "opponent": "Minnesota Twins",
+            "pitcher": "Louie Varland",
+            "inning": "Bottom 4",
+            "runners": "Nobody On",
+            "distance": "373 ft",
+            "exitVelo": "102.1 mph",
+            "launchAngle": "28",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "3-0",
+            "scoreAfter": "3-1",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-55-on-a-fly-ball-to-left-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "56",
+            "opponent": "Boston Red Sox",
+            "pitcher": "Nick Pivetta",
+            "inning": "Top 5",
+            "runners": "Nobody On",
+            "distance": "383 ft",
+            "exitVelo": "109.7 mph",
+            "launchAngle": "24",
+            "ballpark": "Fenway Park",
+            "scoreBefore": "3-2",
+            "scoreAfter": "3-3",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-56-on-a-fly-ball-to-right-center-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "57",
+            "opponent": "Boston Red Sox",
+            "pitcher": "Garrett Whitlock",
+            "inning": "Top 8",
+            "runners": "Nobody On",
+            "distance": "388 ft",
+            "exitVelo": "100.5 mph",
+            "launchAngle": "35",
+            "ballpark": "Fenway Park",
+            "scoreBefore": "4-3",
+            "scoreAfter": "4-4",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-57-on-a-fly-ball-to-left-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "58",
+            "opponent": "Milwaukee Brewers",
+            "pitcher": "Jason Alexander",
+            "inning": "Top 3",
+            "runners": "Nobody On",
+            "distance": "413 ft",
+            "exitVelo": "111.6 mph",
+            "launchAngle": "35",
+            "ballpark": "American Family Field",
+            "scoreBefore": "4-1",
+            "scoreAfter": "4-2",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-58-on-a-fly-ball-to-right-center-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "59",
+            "opponent": "Milwaukee Brewers",
+            "pitcher": "Luis Pedermo",
+            "inning": "Top 7",
+            "runners": "Nobody On",
+            "distance": "443 ft",
+            "exitVelo": "110.3 mph",
+            "launchAngle": "30",
+            "ballpark": "American Family Field",
+            "scoreBefore": "9-4",
+            "scoreAfter": "10-4",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-59-on-a-fly-ball-to-left-center-field?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "60",
+            "opponent": "Pittsburgh Pirates",
+            "pitcher": "Wil Crowe",
+            "inning": "Bottom 9",
+            "runners": "Nobody On",
+            "distance": "430 ft",
+            "exitVelo": "111.6 mph",
+            "launchAngle": "24",
+            "ballpark": "Yankee Stadium",
+            "scoreBefore": "8-4",
+            "scoreAfter": "8-5",
+            "video": "https://www.mlb.com/yankees/video/wil-crowe-in-play-run-s-to-aaron-judge?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "61",
+            "opponent": "Toronto Blue Jays",
+            "pitcher": "Tim Mayza",
+            "inning": "Top 7",
+            "runners": "man on 1st",
+            "distance": "394 ft",
+            "exitVelo": "117.4 mph",
+            "launchAngle": "22",
+            "ballpark": "Rogers Centre",
+            "scoreBefore": "3-3",
+            "scoreAfter": "5-3",
+            "video": "https://www.mlb.com/yankees/video/judge-ties-maris-for-homer-record?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        },
+        {
+            "number": "62",
+            "opponent": "Texas Rangers",
+            "pitcher": "Jesus Tinoco",
+            "inning": "Top 1",
+            "runners": "Nobody On",
+            "distance": "391 ft",
+            "exitVelo": "100.2 mph",
+            "launchAngle": "35",
+            "ballpark": "Globe Life Field",
+            "scoreBefore": "0-0",
+            "scoreAfter": "1-0",
+            "video": "https://www.mlb.com/yankees/video/aaron-judge-homers-62-on-a-fly-ball-to-left-field-x6566?q=PlayerId%20%3D%3D%20%5B592450%5D%20AND%20HitResult%20%3D%20%5B%22Home%20Run%22%5D%20AND%20Season%20%3D%20%5B2022%5D%20AND%20GameType%20%3D%20%5B%22REGULAR_SEASON%22%5D%20Order%20By%20Timestamp%20DESC&cp=MIXED&p=0"
+        
+        }
+    ]
+}
